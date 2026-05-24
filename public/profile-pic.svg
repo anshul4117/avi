@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <!-- Warm sunshine gradient background -->
+    <linearGradient id="avatarGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#EF4444" />
+    </linearGradient>
+  </defs>
+  <!-- Background Circle -->
+  <circle cx="50" cy="50" r="50" fill="url(#avatarGrad)" />
+  
+  <!-- Silhouette of Man -->
+  <!-- Hair / Head -->
+  <path d="M50 22 C42 22 36 28 36 36 C36 41 38 45 42 47 L41 49 C41 51 43 53 45 53 L55 53 C57 53 59 51 59 49 L58 47 C62 45 64 41 64 36 C64 28 58 22 50 22 Z" fill="#1F2937" />
+  
+  <!-- Glasses (Adding smart analyst look) -->
+  <circle cx="45" cy="38" r="4" fill="none" stroke="#FBBF24" stroke-width="1.8" />
+  <circle cx="55" cy="38" r="4" fill="none" stroke="#FBBF24" stroke-width="1.8" />
+  <line x1="49" y1="38" x2="51" y2="38" stroke="#FBBF24" stroke-width="1.8" />
+
+  <!-- Body / Shoulders -->
+  <path d="M22 84 C22 70 32 60 45 58 L45 56 L55 56 L55 58 C68 60 78 70 78 84 L78 95 L22 95 Z" fill="#1F2937" />
+  <!-- Collar / Shirt Detail -->
+  <path d="M45 58 L50 66 L55 58 Z" fill="#FFFFFF" />
+  <!-- Tie Detail -->
+  <path d="M49 64 L51 64 L52 78 L50 82 L48 78 Z" fill="#F59E0B" />
+</svg>
