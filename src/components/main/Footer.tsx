@@ -15,7 +15,7 @@ const Footer: FC = () => {
       label: 'GitHub',
     },
     {
-      href: 'https://linkedin.com/in/aviral-verma',
+      href: 'https://www.linkedin.com/in/aviral-verma-bb34723a1/',
       icon: <FaLinkedin className="w-5 h-5" />,
       label: 'LinkedIn',
     },

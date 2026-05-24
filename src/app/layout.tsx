@@ -88,7 +88,7 @@ export default function RootLayout({
     image: 'https://aviral-verma.vercel.app/profile-pic.svg',
     sameAs: [
       'https://github.com/aviral-verma',
-      'https://linkedin.com/in/aviral-verma',
+      'https://www.linkedin.com/in/aviral-verma-bb34723a1/',
     ],
     knowsAbout: [
       'Network Engineering',

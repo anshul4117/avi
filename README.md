@@ -187,7 +187,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Hasan Ashab** - DevOps & Cloud Engineer
 
 - 🌐 Website: [https://hasan-ashab.vercel.app](https://hasan-ashab.vercel.app)
-- 💼 LinkedIn: [https://linkedin.com/in/hasanashab](https://linkedin.com/in/hasanashab)
+- 💼 LinkedIn: [https://linkedin.com/in/aviral-verma-bb34723a1/](https://www.linkedin.com/in/aviral-verma-bb34723a1/)
 - 🐙 GitHub: [https://github.com/HasanAshab](https://github.com/HasanAshab)
 - 📧 Email: [contact@hasanashab.dev](mailto:contact@hasanashab.dev)
 

@@ -41,6 +41,6 @@ export const Socials = [
   {
     name: 'LinkedIn',
     src: '/instagram.svg',
-    link: 'https://linkedin.com/in/aviral-verma',
+    link: 'https://www.linkedin.com/in/aviral-verma-bb34723a1/',
   },
 ]
