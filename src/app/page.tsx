@@ -10,6 +10,7 @@ import { AnalyticsDebug } from '@/components/analytics/AnalyticsDebug'
 import InteractiveWrapper from '@/components/main/InteractiveWrapper'
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://aviral-verma.vercel.app'),
   title: 'Aviral Verma - Network Engineer & Aspiring Data Scientist Portfolio',
   description: 'Welcome to the portfolio of Aviral Verma. Aspiring Network Engineer with hands-on internship experience in routing, switching, CCNA, and AWS cloud, with a career focus on Python and Data Science.',
   alternates: {

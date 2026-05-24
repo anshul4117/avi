@@ -18,6 +18,7 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://aviral-verma.vercel.app'),
   title: 'Aviral Verma - Network Engineer & Aspiring Data Scientist Portfolio',
   description:
     'Professional portfolio of Aviral Verma, a Network Engineer and Aspiring Data Scientist with expertise in AWS, CCNA networking, Python, and data analysis.',
