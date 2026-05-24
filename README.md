@@ -1,5 +1,5 @@
 
-# Hasan Ashab - DevOps & Cloud Engineer Portfolio
+# Aviral Verma - Network Engineer & Aspiring Data Scientist Portfolio
 
 [![Next.js](https://img.shields.io/badge/Next.js-15.3.3-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
@@ -10,11 +10,11 @@
 
 ## 🚀 Live Demo
 
-Visit the live portfolio: [https://hasan-ashab.vercel.app](https://hasan-ashab.vercel.app)
+Visit the live portfolio: [https://aviral-verma.vercel.app](https://aviral-verma.vercel.app)
 
 ## 👨‍💻 About Me
 
-I'm **Hasan Ashab**, a passionate **DevOps Engineer** and **Cloud Specialist** with expertise in:
+I'm **Aviral Verma**, a passionate **Network Engineer** and **Aspiring Data Scientist** with expertise in:
 
 - ☁️ **Cloud Platforms**: AWS, Azure, Google Cloud Platform
 - 🐳 **Containerization**: Docker, Kubernetes, Helm
@@ -103,7 +103,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/HasanAshab/portfolio.git
+   git clone https://github.com/aviral-verma/portfolio.git
    cd portfolio
    ```
 
@@ -157,12 +157,12 @@ The portfolio supports both light and dark themes with system preference detecti
 ## 📊 SEO Keywords
 
 This portfolio is optimized for the following search terms:
-- DevOps Portfolio
-- Cloud Engineer Portfolio
-- DevOps Engineer
-- Cloud Engineer
-- Hasan Ashab
-- Hasan Ashab Portfolio
+- Network Engineer Portfolio
+- Data Science Portfolio
+- Network Engineer
+- Data Scientist
+- Aviral Verma
+- Aviral Verma Portfolio
 - Portfolio Website
 - AWS DevOps
 - Kubernetes Engineer
@@ -184,12 +184,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Hasan Ashab** - DevOps & Cloud Engineer
+**Aviral Verma** - Network Engineer & Aspiring Data Scientist
 
-- 🌐 Website: [https://hasan-ashab.vercel.app](https://hasan-ashab.vercel.app)
-- 💼 LinkedIn: [https://linkedin.com/in/aviral-verma-bb34723a1/](https://www.linkedin.com/in/aviral-verma-bb34723a1/)
-- 🐙 GitHub: [https://github.com/HasanAshab](https://github.com/HasanAshab)
-- 📧 Email: [contact@hasanashab.dev](mailto:contact@hasanashab.dev)
+- 🌐 Website: [https://aviral-verma.vercel.app](https://aviral-verma.vercel.app)
+- 💼 LinkedIn: [https://linkedin.com/in/aviral-verma-bb34723a1/](https://linkedin.com/in/aviral-verma-bb34723a1/)
+- 🐙 GitHub: [https://github.com/aviral-verma](https://github.com/aviral-verma)
+- 📧 Email: [aviral.verma.sardhana@gmail.com](mailto:aviral.verma.sardhana@gmail.com)
 
 ## 🙏 Acknowledgements
 

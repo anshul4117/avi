@@ -95,7 +95,7 @@ const HeroContentWithAnalytics: FC = () => {
         <div className="relative">
           <h1 className="text-5xl sm:text-6xl lg:text-7xl xl:text-8xl font-black tracking-tight">
             <span className="bg-gradient-to-r from-foreground via-primary to-blue-500 bg-clip-text text-transparent">
-              Hasan Ashab
+              Aviral Verma
             </span>
           </h1>
 
@@ -147,7 +147,7 @@ const HeroContentWithAnalytics: FC = () => {
             <NavbarButton
               variant="secondary"
               className="group bg-card/60 backdrop-blur-sm border-primary/30 hover:border-primary/60 hover:bg-primary/10 px-6 py-4 rounded-xl transition-all duration-300 transform hover:scale-105 shadow-md hover:shadow-lg"
-              href="https://github.com/HasanAshab"
+              href="https://github.com/aviral-verma"
             >
               <FaGithub className="w-5 h-5 group-hover:rotate-12 transition-transform duration-300" />
             </NavbarButton>
