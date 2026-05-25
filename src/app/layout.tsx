@@ -116,6 +116,9 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
         <link rel="canonical" href="https://aviral-verma.vercel.app" />
+        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="icon" href="/icon.svg" type="image/svg+xml" />
+        <link rel="apple-touch-icon" href="/icon.svg" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content="#3b82f6" media="(prefers-color-scheme: light)" />
         <meta name="theme-color" content="#1e40af" media="(prefers-color-scheme: dark)" />
