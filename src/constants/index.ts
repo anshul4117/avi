@@ -36,7 +36,7 @@ export const Socials = [
   {
     name: 'GitHub',
     src: '/github.png',
-    link: 'https://github.com/aviral-verma',
+    link: 'https://github.com/aviralvermamca2025-spec',
   },
   {
     name: 'LinkedIn',

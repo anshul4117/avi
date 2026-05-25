@@ -10,7 +10,7 @@ import { TrackableElement, TrackableContact } from '@/components/analytics/Track
 const Footer: FC = () => {
   const socialLinks = [
     {
-      href: 'https://github.com/aviral-verma',
+      href: 'https://github.com/aviralvermamca2025-spec',
       icon: <RxGithubLogo className="w-5 h-5" />,
       label: 'GitHub',
     },

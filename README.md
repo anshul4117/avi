@@ -103,7 +103,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/aviral-verma/portfolio.git
+   git clone https://github.com/aviralvermamca2025-spec/portfolio.git
    cd portfolio
    ```
 
@@ -188,7 +188,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 🌐 Website: [https://aviral-verma.vercel.app](https://aviral-verma.vercel.app)
 - 💼 LinkedIn: [https://linkedin.com/in/aviral-verma-bb34723a1/](https://linkedin.com/in/aviral-verma-bb34723a1/)
-- 🐙 GitHub: [https://github.com/aviral-verma](https://github.com/aviral-verma)
+- 🐙 GitHub: [https://github.com/aviralvermamca2025-spec](https://github.com/aviralvermamca2025-spec)
 - 📧 Email: [aviral.verma.sardhana@gmail.com](mailto:aviral.verma.sardhana@gmail.com)
 
 ## 🙏 Acknowledgements
