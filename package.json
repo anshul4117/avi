@@ -7,10 +7,6 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "pages:build": "npx @cloudflare/next-on-pages",
-    "preview": "npm run pages:build && npx wrangler pages dev",
-    "deploy": "npm run pages:build && npx wrangler pages deploy",
-    "cf-typegen": "npx wrangler types --env-interface CloudflareEnv ./env.d.ts",
     "setup-analytics": "node scripts/setup-analytics.js"
   },
   "dependencies": {
